@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.genruntimeconfig.cache

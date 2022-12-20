@@ -6,6 +6,8 @@ namespace DailyReport
     {
         static void Main()
         {
+            Console.WriteLine("The Tech Academy");
+            Console.WriteLine("Student Daily Report");
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("What course are you on?");

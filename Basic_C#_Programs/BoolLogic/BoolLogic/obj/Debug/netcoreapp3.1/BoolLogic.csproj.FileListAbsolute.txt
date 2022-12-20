@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\bin\Debug\netcoreapp3.1\BoolLogic.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BoolLogic\BoolLogic\obj\Debug\netcoreapp3.1\BoolLogic.genruntimeconfig.cache

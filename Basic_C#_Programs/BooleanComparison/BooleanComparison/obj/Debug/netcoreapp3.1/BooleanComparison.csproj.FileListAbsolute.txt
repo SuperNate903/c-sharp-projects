@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\BooleanComparison\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.genruntimeconfig.cache

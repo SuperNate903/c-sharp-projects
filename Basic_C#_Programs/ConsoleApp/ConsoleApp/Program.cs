@@ -86,6 +86,7 @@ namespace ConsoleApp
                 {
                     if(input == stringList[i])
                     {
+                        Console.WriteLine("The result: " + input + " is on index " + i);
                         match = true;
                     }
                 }
@@ -114,7 +115,7 @@ namespace ConsoleApp
                 {
                     if (input == stringList2[i])
                     {
-                        Console.WriteLine(stringList2[i]);
+                        Console.WriteLine(stringList2[i] + " is on index " + i);
                         inList = true;
                     }
                 }

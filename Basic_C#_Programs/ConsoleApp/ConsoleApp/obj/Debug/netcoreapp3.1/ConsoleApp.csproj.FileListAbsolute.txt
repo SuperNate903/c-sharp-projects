@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

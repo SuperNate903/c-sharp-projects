@@ -8,11 +8,13 @@ namespace ExceptionHandling
         {
             try
             {
+                int[] numberArray = new int[] { 5,2,7,4,3 };
                 Console.WriteLine("Input a number.");
-                int firstNumber = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Input a second number.");
-                int secondNumber = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Dividing " + firstNumber + " by " + secondNumber + " equals " + (firstNumber / secondNumber));
+                int number = Convert.ToInt32(Console.ReadLine());
+                for(int i = 0; i < numberArray.Length; i++)
+                {
+                    Console.WriteLine("Dividing " + numberArray[i] + " by " + number + " equals " + (Convert.ToDouble(numberArray[i]) / Convert.ToDouble(number)));
+                }
             }
             catch(FormatException ex)
             {

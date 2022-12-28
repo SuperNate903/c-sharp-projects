@@ -12,7 +12,7 @@ namespace Methods2
             Console.WriteLine(method.Operation(number));
             Console.WriteLine("Input a decimal");
             decimal decimalNum = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine(Convert.ToInt32(method.Operation(decimalNum)));
+            Console.WriteLine(method.Operation(decimalNum));
             Console.WriteLine("Input a number (in string format)");
             string stringNum = Console.ReadLine();
             Console.WriteLine(method.Operation(stringNum));

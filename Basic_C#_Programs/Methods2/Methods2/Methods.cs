@@ -16,9 +16,9 @@ namespace Methods2
             return number + 12;
         }
 
-        public decimal Operation(decimal decimalNum)
+        public int Operation(decimal decimalNum)
         {
-            return decimalNum / 4;
+            return Convert.ToInt32(decimalNum / 4);
         }
 
         public int Operation(string stringNum)

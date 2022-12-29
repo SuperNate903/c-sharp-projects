@@ -12,6 +12,8 @@ namespace Methods4
             Console.WriteLine("Write another number.");
             int number2 = Convert.ToInt32(Console.ReadLine());
             method.Operation(number1, number2);
+            method.Operation(num1: number1, num2: number2);
+            Console.Read();
         }
     }
 }

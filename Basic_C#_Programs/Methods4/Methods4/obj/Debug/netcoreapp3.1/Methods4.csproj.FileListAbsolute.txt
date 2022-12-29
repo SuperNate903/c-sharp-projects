@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\bin\Debug\netcoreapp3.1\Methods4.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Methods4\Methods4\obj\Debug\netcoreapp3.1\Methods4.genruntimeconfig.cache

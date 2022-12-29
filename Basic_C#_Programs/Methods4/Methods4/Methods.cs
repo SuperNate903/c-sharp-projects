@@ -13,8 +13,8 @@ namespace Methods4
 
         public void Operation(int num1, int num2)
         {
-            int total = num1 - num2;
-            Console.WriteLine(total);
+            int total = num1 - 12;
+            Console.WriteLine(num2);
         }
     }
 }

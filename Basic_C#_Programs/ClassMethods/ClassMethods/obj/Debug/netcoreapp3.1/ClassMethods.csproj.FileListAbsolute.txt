@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\bin\Debug\netcoreapp3.1\ClassMethods.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\ClassMethods\ClassMethods\obj\Debug\netcoreapp3.1\ClassMethods.genruntimeconfig.cache

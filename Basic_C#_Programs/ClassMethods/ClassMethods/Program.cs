@@ -6,14 +6,14 @@ namespace ClassMethods
     {
         static void Main()
         {
-            int total = 0;
+            Methods method = new Methods();
             Console.WriteLine("Write a number");
             int number = Convert.ToInt32(Console.ReadLine());
-            Methods.Divide(number, out total);
+            method.Divide(number, out int total);
             Console.WriteLine(total);
             Console.WriteLine("Write another number");
             string stringNumber = Console.ReadLine();
-            Methods.Divide(stringNumber, out total);
+            method.Divide(stringNumber, out total);
             Console.WriteLine(total);
             Console.Read();
         }

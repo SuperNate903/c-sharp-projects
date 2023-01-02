@@ -6,7 +6,10 @@ namespace AbstractClass
 {
     public class Employee : Person
     {
-        Person person = new Person();
-        person.SayName();
+        public override void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+            Console.ReadLine();
+        }
     }
 }

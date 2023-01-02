@@ -12,3 +12,17 @@ C:\Users\minec\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operator
 C:\Users\minec\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
 C:\Users\minec\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
 C:\Users\minec\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

@@ -6,30 +6,17 @@ namespace Operators
 {
     class Employee
     {
+        public int Id;
         public string FirstName;
         public string LastName;
 
-        public static Employee operator== (Employee obj1, Employee obj2)
+        public static bool operator== (Employee obj1, Employee obj2)
         {
-            if(obj1.FirstName == obj2.FirstName & obj1.LastName == obj2.LastName)
-            {
-                return obj1;
-            }
-            else
-            {
-                return obj2;
-            }
+            return obj1.Id == obj2.Id;
         }
-        public static Employee operator!= (Employee obj1, Employee obj2)
+        public static bool operator!= (Employee obj1, Employee obj2)
         {
-            if (obj1.FirstName != obj2.FirstName & obj1.LastName != obj2.LastName)
-            {
-                return obj1;
-            }
-            else
-            {
-                return obj2;
-            }
+            return obj1.Id != obj2.Id;
         }
     }
 }

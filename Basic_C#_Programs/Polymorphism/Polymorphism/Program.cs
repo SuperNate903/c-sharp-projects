@@ -6,7 +6,7 @@ namespace Polymorphism
     {
         static void Main()
         {
-            Employee quitTable = new Employee();
+            IQuittable quitTable = new Employee();
             quitTable.Quit();
         }
     }

@@ -6,6 +6,6 @@ namespace Polymorphism
 {
     interface IQuittable
     {
-        public abstract void Quit();
+        abstract void Quit();
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache

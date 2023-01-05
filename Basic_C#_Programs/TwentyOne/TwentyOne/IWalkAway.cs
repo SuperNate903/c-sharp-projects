@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TwentyOne
+namespace TwentyOne.Interfaces
 {
     interface IWalkAway
     {

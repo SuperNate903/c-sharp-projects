@@ -1,0 +1,14 @@
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.exe
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.deps.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.runtimeconfig.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.runtimeconfig.dev.json
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\NDateTime.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.csproj.AssemblyReference.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.AssemblyInfoInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.AssemblyInfo.cs
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.csproj.CoreCompileInputs.cache
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.dll
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.pdb
+C:\Users\minec\Documents\GitHub\c-sharp-projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\NDateTime.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data.Entity;
+using System.Linq;
 
 namespace FinalChallenge
 {
@@ -49,14 +50,39 @@ namespace FinalChallenge
                                        orderby s.Id
                                        select s).ToList();
 
-                        foreach(var student in students)
-                        {
+                        bool idChosen = false;
 
+                        while (!idChosen) {
+                            foreach (var student in students)
+                            {
+                                Console.WriteLine("{0}: {1} {2}", student.Id, student.FirstName, student.LastName);
+                            }
+
+                            int idInput = Convert.ToInt32(Console.ReadLine());
+
+                            if(idInput > 0)
+                            {
+                                var student = db.Students.Find(idInput);
+                                db.Students.Remove(student);
+                                db.SaveChanges();
+                                Console.WriteLine("{0} {1} has been removed from the database.", student.FirstName, student.LastName);
+                                idChosen = true;
+                            }
                         }
                     }
                     else if (answer == "check")
                     {
+                        var students = (from s in db.Students
+                                        orderby s.Id
+                                        select s).ToList();
 
+                        foreach (var student in students)
+                        {
+                            Console.WriteLine("{0}: {1} {2}", student.Id, student.FirstName, student.LastName);
+                        }
+
+                        Console.WriteLine("Press ENTER to continue.");
+                        Console.ReadLine();
                     }
                     else if (answer != "quit")
                     {
